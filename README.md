@@ -152,8 +152,127 @@
 
   <ul>
     <li>
-      <h3>Biblioteca Java</h3>
-     <p></p> 
+      <h3>Biblioteca Java Spring/JPA</h3>
+      <a href="https://github.com/mauriciortega07/SegundoProyectoLibreria.git">Repository</a>
+      </br>
+      <ul>
+        <li>Small program that emulates the functionality of a library.</li>
+        <li>CRUD operations management.</li>
+        <li>Use of Java, Spring, JPA, MySQL, OOP.</li>
+        <li>Author and book registration, as well as user usage. Updating and deleting records.</li>
+      </ul>
+    </li>
+     <li>
+      <h3>Interfaz Biomedica</h3>
+      <a href="https://github.com/mauriciortega07/proyecto-biomedica.git">Repository</a>
+      </br>
+      <ul>
+        <li>Biomedical interface, with registration and login, it presents a catalog of biomedical equipment, which are displayed by categories.</li>
+        <li>Biomedical equipment records can be edited and deleted.</li>
+        <li>Implementation of biomedical equipment registration through decision-making</li>
+        <li>CRUD operations management.</li>
+        <li>Use of React, Jsx, Html, Styled-components.</li>
+      </ul>
+    </li>
+      <li>
+      <h3>Backend de Interfaz Biomedica</h3>
+      <a href="https://github.com/mauriciortega07/backend-proyecto-biomedica.git">Repository</a>
+      </br>
+      <ul>
+        <li>Backend service, which responds to all requests and calls made from Biomedical Interface.</li>
+        <li>Biomedical Backend Service include equipment records, and can be edited and deleted.</li>
+        <li>CRUD operations management.</li>
+        <li>Use of JS, Express Framework and MySql.</li>
+        <li>It is currently adapted for use in Railway App servie.</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Servicio REST</h3>
+      <a href="https://github.com/mauriciortega07/Practica65ServiciosWebREST.git">Repository</a>
+      </br>
+      <ul>
+        <li>Microservice with REST requests.</li>
+        <li>Server that responds to REST requests, to obtain user and phone information.</li>
+        <li>using Java, Spring boot, OOP, JPA, H2, MySql, JPA/Hibernate, Mockito and Junit Test, Maven.</li>
+        <li>Managing profiles for different executions with databases, h2 and mysql</li>
+        <li>This service has been modified for implementation with AWS EC2, giving the possibility of being consumed as a             Rest API.</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Cliente Web API </h3>
+      <a href="https://github.com/mauriciortega07/Practica67ClienteWEBAPI.git">Repository</a>
+      </br>
+      <ul>
+        <li>Web client that consumes a REST API and maps REST service information with Thymeleaf.</li>
+        <li>Server that responds to REST requests, to obtain user and phone information.</li>
+        <li>Using Java, OOP, restTemplate and Thymeleaf framework to render HTML content, Maven.</li>
+        <li>This client makes requests to its own AWS service</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Biblioteca Java Spring/JPA 1V</h3>
+      <a href="https://github.com/mauriciortega07/ProyectoLibreria.git">Repository</a>
+      </br>
+      <ul>
+        <li>Small program that emulates the functionality of a library.</li>
+        <li>CRUD operations management.</li>
+        <li>Use of Java, Spring, JPA, JDBC ,MySQL, OOP.</li>
+        <li>Author and book registration, as well as user usage. Updating and deleting records.</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Sumobot</h3>
+      <a href="https://github.com/mauriciortega07/SumoBot.git">Repository</a>
+      </br>
+      <ul>
+        <li>Chatbot simulator, with answers to predefined questions.</li>
+        <li>Using Js, Scss, Html.</li>
+      </ul>
+    </li>
+     <li>
+      <h3>Ape-Wild Movies</h3>
+      <a href="https://github.com/mauriciortega07/Ape-Wild-Movies.git">Repository</a>
+      </br>
+      <ul>
+        <li>Web page that consumes an API from a movie collection service.</li>
+        <li>using Js, Scss, html, providing responsive design.</li>
+      </ul>
+    </li>
+     <li>
+      <h3>Binco Clothes Store</h3>
+      <a href="https://github.com/mauriciortega07/BincoClothesStore.git">Repository</a>
+      </br>
+      <ul>
+        <li>An e-commerce store offering product information and the ability to add products to your shopping cart.</li>
+        <li>Using React, Js, Html, Jsx, Styled-Components and consuming a REST API for clothing information.</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Adidas Clothes Store</h3>
+      <a href="https://github.com/mauriciortega07/adidasEcommerceProject.git">Repository</a>
+      </br>
+      <ul>
+        <li>An basic e-commerce store offering product information and the ability to add products to your shopping cart.</li>
+        <li>Using Html, Css, Js, and clothing information given by us</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Spotify Interfaz</h3>
+      <a href="https://github.com/mauriciortega07/spotify-interface-recreation.git">Repository</a>
+      </br>
+      <ul>
+        <li>replica of the Spotify interface, with responsive design, without functionality, carried out with design practice.</li>
+        <li>Using Html, Css</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Pizza Ecomerce</h3>
+      <a href="https://github.com/mauriciortega07/pizzaEcommerceProjectInterfaz.git">Repository</a>
+      </br>
+      <ul>
+        <li>An basic pizza e-commerce store offering product.</li>
+        <li>Using Html, Scss</li>
+      </ul>
     </li>
   </ul>
 </div>
